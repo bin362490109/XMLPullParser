@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.TextView;
-
+//  ui helper
 public class UIHelper {
 
 	public static void displayText(Activity activity, int id, String text) {

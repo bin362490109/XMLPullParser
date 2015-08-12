@@ -12,7 +12,6 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 
 import com.exploreca.tourfinder.model.Tour;
-import com.google.gson.Gson;
 
 import org.jdom2.Document;
 
@@ -40,10 +39,9 @@ public class MainActivity extends ListActivity {
 			@Override
 			public void onSharedPreferenceChanged(SharedPreferences sharedPreferences,
 					String key) {
-				//新增的
+				//new  new  new
 				MainActivity.this.refreshDisplay();
 				Document doc=new Document();
-				Gson gson=new Gson();
 			}
 		};
 		settings.registerOnSharedPreferenceChangeListener(listener);
