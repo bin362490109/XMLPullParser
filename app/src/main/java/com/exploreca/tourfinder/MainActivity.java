@@ -40,6 +40,7 @@ public class MainActivity extends ListActivity {
 			@Override
 			public void onSharedPreferenceChanged(SharedPreferences sharedPreferences,
 					String key) {
+				//新增的
 				MainActivity.this.refreshDisplay();
 				Document doc=new Document();
 				Gson gson=new Gson();
