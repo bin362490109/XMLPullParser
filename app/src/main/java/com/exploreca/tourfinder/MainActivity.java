@@ -39,7 +39,7 @@ public class MainActivity extends ListActivity {
 			@Override
 			public void onSharedPreferenceChanged(SharedPreferences sharedPreferences,
 					String key) {
-				//new  new  new
+				//new  new  new  大富大贵
 				MainActivity.this.refreshDisplay();
 				Document doc=new Document();
 			}
