@@ -40,7 +40,7 @@ public class MainActivity extends ListActivity {
 			public void onSharedPreferenceChanged(SharedPreferences sharedPreferences,
 					String key) {
 				//new  new  new  大富大贵
-				// degggwg
+				// degggwg wqff
 				MainActivity.this.refreshDisplay();
 				Document doc=new Document();
 			}
