@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/XMLPullParser/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/E:/as_work/XMLPullParser/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="medium_text">25sp</dimen>
-    <!-- From: file:/E:/XMLPullParser/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/E:/as_work/XMLPullParser/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Explore CA</string>
     <string name="btn_createfile">Create file</string>
     <string name="btn_readfile">Read file</string>
     <string name="menu_settings">Settings</string>
-    <!-- From: file:/E:/XMLPullParser/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/E:/as_work/XMLPullParser/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

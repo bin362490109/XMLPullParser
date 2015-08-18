@@ -8,9 +8,4 @@
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.exploreca.tourfinder"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for com.exploreca.tourfinder"/>
 </manifest>
